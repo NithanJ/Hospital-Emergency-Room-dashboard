@@ -1,1 +1,2 @@
 # Hospital-Emergency-Room-dashboard
+Conducted a Hospital Emergency Room Data Analysis using SQL, Power BI, DAX, and Power Query to optimize patient management and service efficiency. Wrote complex SQL queries to extract, clean, and transform large datasets related to patient admissions and treatment durations. Utilized DAX for advanced calculations and Power Query for data transformation in Power BI. Created stored procedures and optimized queries to improve database performance and provided actionable insights to hospital administration.
